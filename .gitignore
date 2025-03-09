@@ -1,0 +1,11 @@
+# Ignore log files
+*.log
+
+# Ignore log files in the root directory
+telegram_bot_*.log
+
+# Ignore settings.py file in the conf directory
+conf/settings.py
+
+#Ignore vscoe directory
+.vscode
