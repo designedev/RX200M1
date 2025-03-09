@@ -1,5 +1,4 @@
 from waybackpy import WaybackMachineSaveAPI
-import logging
 import asyncio
 from concurrent.futures import ProcessPoolExecutor
 
